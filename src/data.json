@@ -1,0 +1,68 @@
+[
+    {
+        "title":"Duniya by Arijit singh",
+        "img":"./images/1.jpg",
+        "mp3":"./songs/1.mp3",
+        "id":"1"
+    },
+    {
+        "title":"i Like Me Better",
+        "img":"./images/2.jpg",
+        "mp3":"./songs/2.mp3",
+        "id":"2"
+    },
+    {
+        "title":"Mast Magan",
+        "img":"./images/6.jpg",
+        "mp3":"./songs/7.mp3",
+        "id":"3"
+    },
+    {
+        "title":"Jaan Ban Gaye",
+        "img":"./images/3.jpg",
+        "mp3":"./songs/3.mp3",
+        "id":"4"
+    },
+    {
+        "title":"Kinna Sonna",
+        "img":"./images/11.jpg",
+        "mp3":"./songs/5.mp3",
+        "id":"5"
+    },
+    {
+        "title":"Teri Hogaiyaan",
+        "img":"./images/10.jpg",
+        "mp3":"./songs/11.mp3",
+        "id":"6"
+    },
+    {
+        "title":"Kesariyaa",
+        "img":"./images/4.jpg",
+        "mp3":"./songs/4.mp3",
+        "id":"7"
+    },
+    {
+        "title":"Love Me Like You do",
+        "img":"./images/5.jpg",
+        "mp3":"./songs/6.mp3",
+        "id":"8"
+    },
+    {
+        "title":"Pheli Dafa",
+        "img":"./images/7.jpg",
+        "mp3":"./songs/8.mp3",
+        "id":"9"
+    },
+    {
+        "title":"Ranjhanna",
+        "img":"./images/9.jpg",
+        "mp3":"./songs/9.mp3",
+        "id":"10"
+    },
+    {
+        "title":"Rait Zara si",
+        "img":"./images/8.jpg",
+        "mp3":"./songs/10.mp3",
+        "id":"11"
+    }
+]
